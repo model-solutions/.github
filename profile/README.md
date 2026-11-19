@@ -108,6 +108,7 @@ web-*        → web uygulaması
 mobile-*     → mobil uygulama
 desktop-*    → masaüstü uygulama
 module-*     → ERP / sistem modülü
+lib-*        → ortak kütüphane / DLL
 service-*    → servis veya backend servis yapısı
 client-*     → müşteriye özel uygulama
 template-*   → uygulama şablonu
